@@ -11,8 +11,10 @@ To write a program to predict the profit of a city using the linear regression m
 1. Get the independent variable X and dependent variable Y.
 2. Calculate the mean of the X -values and the mean of the Y -values.
 3. Find the slope m of the line of best fit using the formula.
+
    <img width="285" height="137" alt="image" src="https://github.com/user-attachments/assets/8da9e7a6-d9c1-470e-a750-ee09fa174a3e" />
 4. Compute the y -intercept of the line by using the formula:
+
    <img width="192" height="43" alt="image" src="https://github.com/user-attachments/assets/662bfffd-bb91-46e7-af0e-55a3876fb2b8" />
 5. Use the slope m and the y -intercept to form the equation of the line. 6. Obtain the straight line equation Y=mX+b and plot
  the scatterplot.
